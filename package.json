@@ -12,7 +12,7 @@
     "autoprefixer": "^9.7.6",
     "bootstrap": "^4.4.1",
     "jquery": "^3.5.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "popper.js": "^1.16.1",
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.11"
